@@ -20,7 +20,7 @@ export default {
       "8xl": ["96px", "106px"],
 
       "hero": "88.8pt",
-      "hero-mobile": "60pt",
+      "hero-mobile": "55pt",
       "subtitle": "45pt",
       "subtitle-mobile": "20pt",
       
