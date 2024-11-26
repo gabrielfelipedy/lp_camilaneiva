@@ -18,12 +18,14 @@ export default {
       "3xl": ["28px", "50px"],
       "4xl": ["48px", "58px"],
       "8xl": ["96px", "106px"],
+
       "hero": "88.8pt",
-      "hero-mobile": "70pt",
-      "hero-text": "20pt",
+      "hero-mobile": "50pt",
       "subtitle": "45pt",
-      "subtitle-mobile": "40pt",
-      "title": "50pt"
+      "subtitle-mobile": "20pt",
+      
+      "hero-text": "20pt",
+      "hero-text-mobile": "15pt"
     },
     backgroundImage: {
       hero: "linear-gradient(rgba(210, 180, 150, 0.3), rgba(210, 180, 150, 0.3)), url('/assets/background-image.webp')",
