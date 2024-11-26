@@ -5,15 +5,15 @@ const Hero = () => {
   return (
     <section id="home" className="w-full bg-background-primary text-text-primary">
 
-        <div className="relative flex flex-col justify-end py-16 md:py-24 w-full h-dvh p-8 max-container bg-hero bg-cover bg-no-repeat bg-center">
+        <div className="relative flex flex-col justify-end py-6 md:py-16 w-full h-dvh p-8 max-container bg-hero bg-cover bg-no-repeat bg-center">
 
           <div className="w-full md:w-4/6">
-            <p className='text-hero-text-mobile md:text-hero-text mb-16'>
+            <p className='text-hero-text-mobile md:text-hero-text mb-4 md:mb-16'>
               Dra.
             </p>
 
-            <h1 className="text-hero-mobile md:text-hero leading-none font-garet text-dark-brown">Camila</h1>
-            <h1 className="text-hero-mobile md:text-hero leading-none font-garet text-dark-brown">Neiva</h1>
+            <h1 className="text-hero-mobile md:text-hero md:leading-none font-garet text-dark-brown leading-tight">Camila</h1>
+            <h1 className="text-hero-mobile md:text-hero md:leading-none font-garet text-dark-brown leading-tight">Neiva</h1>
 
             <div className="bg-primary py-4">
               <p className="text-subtitle-mobile md:text-subtitle leading-none font-garet">
