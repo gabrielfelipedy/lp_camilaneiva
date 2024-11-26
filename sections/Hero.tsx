@@ -5,10 +5,10 @@ const Hero = () => {
   return (
     <section id="home" className="w-full bg-background-primary text-text-primary">
 
-        <div className="relative w-full p-8 max-container bg-hero bg-cover bg-no-repeat bg-center">
+        <div className="relative flex flex-col justify-end py-16 md:py-24 w-full h-dvh p-8 max-container bg-hero bg-cover bg-no-repeat bg-center">
 
           <div className="w-full md:w-4/6">
-            <p className='text-hero-text mt-80 md:mt-40 mb-16'>
+            <p className='text-hero-text-mobile md:text-hero-text mb-16'>
               Dra.
             </p>
 
