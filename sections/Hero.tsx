@@ -12,8 +12,8 @@ const Hero = () => {
               Dra.
             </p>
 
-            <h1 className="text-hero-mobile md:text-hero md:leading-none font-garet text-dark-brown leading-tight">Camila</h1>
-            <h1 className="text-hero-mobile md:text-hero md:leading-none font-garet text-dark-brown leading-tight">Neiva</h1>
+            <h1 className="text-hero-mobile md:text-hero leading-none font-garet text-dark-brown tracking-wider">Camila</h1>
+            <h1 className="text-hero-mobile md:text-hero leading-none font-garet text-dark-brown tracking-wider">Neiva</h1>
 
             <div className="bg-primary py-4">
               <p className="text-subtitle-mobile md:text-subtitle leading-none font-garet">
