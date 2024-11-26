@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="relative w-full p-8 max-container bg-hero bg-cover bg-no-repeat bg-center">
 
           <div className="w-full md:w-4/6">
-            <p className='text-hero-text mt-14 md:mt-40 mb-16'>
+            <p className='text-hero-text mt-80 md:mt-40 mb-16'>
               Dra.
             </p>
 
@@ -22,8 +22,8 @@ const Hero = () => {
             </div>
           </div>
 
-          <div className='flex flex-col md:flex-row items-start md:items-end justify-between'>
-            <p className='text-hero-text w-full md:w-5/12 mx-auto md:mx-0'>
+          <div className='flex flex-col md:flex-row items-center md:items-end justify-between'>
+            <p className='text-hero-text-mobile md:text-hero-text w-full md:w-5/12 mx-auto md:mx-0'>
               Não se trata de uma consulta, é o primeiro passo da sua jornada de transformação.
             </p>
             <BtnAction styles='mt-5' caption='Agende sua consulta' />
