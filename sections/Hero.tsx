@@ -26,7 +26,7 @@ const Hero = () => {
             <p className='text-hero-text-mobile md:text-hero-text w-full md:w-5/12 mx-auto md:mx-0'>
               Não se trata de uma consulta, é o primeiro passo da sua jornada de transformação.
             </p>
-            <BtnAction styles='mt-5' caption='Agende sua consulta' />
+            <BtnAction styles='mt-5 text-xl md:text-2xl' caption='Agende sua consulta' />
           </div>
 
         </div>
