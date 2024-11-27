@@ -23,9 +23,13 @@ export default {
       "hero-mobile": "55pt",
       "subtitle": "45pt",
       "subtitle-mobile": "20pt",
-      
       "hero-text": "20pt",
-      "hero-text-mobile": "15pt"
+      "hero-text-mobile": "15pt",
+
+      "title-section": "62pt",
+      "title-section-mobile": "45pt",
+      "text-section": "14pt",
+      "text-section-mobile": "14pt"
     },
     backgroundImage: {
       hero: "linear-gradient(rgba(210, 180, 150, 0.3), rgba(210, 180, 150, 0.3)), url('/assets/background-image.webp')",
