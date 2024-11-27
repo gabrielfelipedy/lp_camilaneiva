@@ -3,9 +3,9 @@ import BtnAction from '@/components/BtnAction'
 
 const Hero = () => {
   return (
-    <section id="home" className="w-full bg-background-primary text-text-primary">
+    <section id="home" className="w-full px-5 bg-background-primary text-text-primary relative bg-hero bg-cover bg-no-repeat bg-center">
 
-        <div className="relative flex flex-col justify-end py-6 md:py-16 w-full h-dvh p-8 max-container bg-hero bg-cover bg-no-repeat bg-center">
+        <div className="flex flex-col justify-end py-6 md:py-16 w-full h-dvh max-container">
 
           <div className="w-full md:w-4/6">
             <p className='text-hero-text-mobile md:text-hero-text mb-4 md:mb-16'>
