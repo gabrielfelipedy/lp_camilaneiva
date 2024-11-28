@@ -25,7 +25,7 @@ const OndeAtendo = () => {
 
                 <div>
                   <p className='paragraph font-extrabold'>E-MAIL</p> 
-                  <p className='paragraph'>clinicadracamilaneiva@gmail.com</p>
+                  <p className='paragraph'>gestao@institutoamparo.com</p>
                 </div>
 
                 <div>
