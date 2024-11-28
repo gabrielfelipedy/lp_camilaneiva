@@ -33,6 +33,7 @@ export default {
     },
     backgroundImage: {
       hero: "linear-gradient(rgba(210, 180, 150, 0.3), rgba(210, 180, 150, 0.3)), url('/assets/background-image.webp')",
+      atendo: "url('/assets/onde_atendo.webp')",
     },
     extend: {
       colors: {

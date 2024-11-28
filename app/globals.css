@@ -18,43 +18,23 @@
 }
 
 @layer utilities {
-    .title {
-        @apply md:text-title-section text-title-section-mobile;
-    }
+  .title {
+    @apply md:text-title-section text-title-section-mobile;
+  }
+
+  .big-text {
+    @apply text-hero-text-mobile md:text-hero-text;
+  }
 
   .paragraph {
-    @apply text-text-section-mobile md:text-text-section text-justify;
-  }
-
-  .padding {
-    @apply sm:px-16 px-8 sm:py-24 py-12;
-  }
-
-  .padding-x {
-    @apply sm:px-16 px-8;
+    @apply text-text-section-mobile md:text-text-section;
   }
 
   .padding-y {
     @apply sm:py-24 py-12;
   }
 
-  .padding-l {
-    @apply sm:pl-16 pl-8;
-  }
-
-  .padding-r {
-    @apply sm:pr-16 pr-8;
-  }
-
-  .padding-t {
+  .padding-y-t {
     @apply sm:pt-24 pt-12;
-  }
-
-  .padding-b {
-    @apply sm:pb-24 pb-12;
-  }
-
-  .info-text {
-    @apply font-montserrat text-slate-gray text-lg leading-7;
   }
 }

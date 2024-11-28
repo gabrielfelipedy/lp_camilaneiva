@@ -16,11 +16,11 @@ const EstouParaOuvir = () => {
 
         <div className="lg:w-6/12 space-y-6">
           
-            <p className="text-hero-text text-justify mt-3">
+            <p className="big-text text-justify mt-3">
               Estou aqui para ouvir suas preocupações e junto com você buscar maneiras de melhorar sua saúde mental e reencontrar sua paz e bem-estar. 
             </p>
           
-            <p className="text-hero-text text-justify mt-3">
+            <p className="big-text text-justify mt-3">
               Vamos juntos definir o melhor plano de tratamento para você, seja ele com terapia, mudanças no estilo de vida, medicamentos ou uma combinação deles.
             </p>
         
