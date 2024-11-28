@@ -32,7 +32,7 @@ const PessoasDizem = () => {
             <h3 className='text-hero-text font-bold mb-6'>Gelmires Queiroz</h3>
 
             <p>
-              O instituto Amparo é o local onde encontramos acolhimento e assistência em um único lugar, o tratamento com a EMT foi imprescindível para melhorar meu quadro clínico em apenas 03 meses de acompanhamento, sem falar no atendimento totalmente personalizado e individualizado que a Dra Camila Neiva tem com todos os seus pacientes. Indico a clínica de olhos fechados ♥️
+              Iniciei meu tratamento de ansiedade com Estimulação Magnética transcraniana (EMT) e resposta tem sido de excelente. Consegui controlar os sintomas sem a necessidade de medicamentos e isso por si só já é um ganho a saúde do paciente. Sem dúvida recomendo. Agradeço a Dra Camila Neiva e a toda equipe do instituto Amparo.
             </p>
 
             <span className='relative w-[150px] h-[70px]'>
@@ -49,7 +49,7 @@ const PessoasDizem = () => {
             <h3 className='text-hero-text font-bold mb-6'>Lucas Ribeiro</h3>
 
             <p>
-              O instituto Amparo é o local onde encontramos acolhimento e assistência em um único lugar, o tratamento com a EMT foi imprescindível para melhorar meu quadro clínico em apenas 03 meses de acompanhamento, sem falar no atendimento totalmente personalizado e individualizado que a Dra Camila Neiva tem com todos os seus pacientes. Indico a clínica de olhos fechados ♥️
+              Me senti acolhido e compreendido desde a primeira consulta. Sua capacidade profissional, mas também me ouvir com atenção e empatia foi fundamental para o meu progresso. Ótimo atendimento e excelente profissional.
             </p>
 
             <span className='relative w-[150px] h-[70px]'>
