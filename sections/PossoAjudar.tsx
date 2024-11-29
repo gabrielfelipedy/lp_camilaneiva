@@ -8,11 +8,14 @@ const PossoAjudar = () => {
       
 
         <div className='text-hero-text flex flex-col items-center bg-text-secondary py-5 px-12 rounded-lg mt-6 gap-10'>
+          
           <h2>Ansiedade</h2>
+          <h2>Autismo</h2>
           <h2>Depressão</h2>
+          <h2>Compulsão alimentar</h2>
           <h2>Insônia</h2>
           <h2>TDAH</h2>
-          <h2>Autismo</h2>
+          
         </div>
       </div>
     </section>
