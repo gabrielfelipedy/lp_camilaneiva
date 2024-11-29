@@ -30,7 +30,7 @@ const OndeAtendo = () => {
 
                 <div>
                   <p className='paragraph font-extrabold'>TELEFONE</p> 
-                  <p className='paragraph'>(91) 99135-4590</p>
+                  <p className='paragraph'>(96) 99135-4590</p>
                 </div>
 
                 <div>
